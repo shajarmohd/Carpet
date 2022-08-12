@@ -50,7 +50,7 @@ html{
 /* Home Section */
 
 #home{
-    height: 622px;
+    height: 740px;
     font-family: 'Bree Serif', serif;
     text-align: center;
 }
@@ -95,13 +95,15 @@ section p{
 
 #main{
     background-color: rgb(233 237 241);
-    height:411px;
+    height:440px;
+    /* height:411px; */
     font-family: 'Bree Serif', serif;
 
 }
 #main h1{
-    padding: 15px 4px;
-    margin: 15px 3px;
+    padding: 45px 4px;
+    /* padding: 15px 4px; */
+    /* margin: 15px 3px; */
     font-size: 3rem;
 }
 
@@ -158,7 +160,7 @@ section p{
     background-color: black;
     flex-direction: column;
     justify-content: center;
-    height: 300px;
+    height: 700px;
     align-items: center;
     font-family: 'Bree Serif', serif;
 }
